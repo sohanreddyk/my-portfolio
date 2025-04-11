@@ -11,7 +11,7 @@ const EducationCard = ({
     branch,
     duration,
     college,
-    CGPA
+    Grade,
 }: EducationCardProps) => {
   return (
     <div className="bg-[#0e1117] p-4 py-8 rounded-lg shadow-md hover:shadow-lg transition-all duration-300 px-8 w-fit">
@@ -32,7 +32,7 @@ const EducationCard = ({
 
       <div className="flex flex-col gap-2">
         <p className="mt-2 text-white">{college}</p>
-        <p className="mt-2 text-white">{CGPA}</p>
+        <p className="mt-2 text-white">{Grade}</p>
       </div>
     </div>
   );

@@ -26,7 +26,7 @@ const Education = () => {
             branch={item.branch}
             duration={item.duration}
             college={item.college}
-            CGPA={item.CGPA}
+            Grade={item.Grade}
           />
         ))}
       </div>
