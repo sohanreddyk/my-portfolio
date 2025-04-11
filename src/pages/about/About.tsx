@@ -7,11 +7,11 @@ const About = () => {
         </h1>
       </div>
       <div className="text-white flex-wrap flex flex-col gap-2  text-start ">
-        <p>I'm Sohan Reddy, a passionate Fullstack Developer</p>
+        <p>I'm Sohan Reddy, Developer</p>
         <p>
-          with experience in building responsive web applications using modern
+          Aspiring Cloud Engineer with a passion for building intelligent and scalable systems.
         </p>
-        <p>technologies like React, Tailwind CSS, Node.js, and PostgreSQL.</p>
+        <p>I have a strong foundation in programming with languages like Python, Java, C++, and JavaScript. I'm experienced in full-stack web development using React, Node.js, and Express, and have built cross-platform mobile applications with Flutter and Firebase.</p>
         <p>
           I enjoy solving real-world problems with clean code and scalable
           architecture.
